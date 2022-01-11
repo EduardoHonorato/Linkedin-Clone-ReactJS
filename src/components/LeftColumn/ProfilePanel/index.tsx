@@ -9,12 +9,12 @@ const ProfilePanel: React.FC = () => {
     <Panel>
       <Container>
         <img
-          src="https://media-exp1.licdn.com/dms/image/C4E16AQFw1D7MEkOzGg/profile-displaybackgroundimage-shrink_200_800/0/1516996508483?e=1635984000&v=beta&t=3Qxbnp7RKZ01gGPRIqG-0qY8wZnBXcIM2SaPkEidJpM"
+          src="/media/cover.jpg"
           alt=""
           className="profile-cover"/>
 
         <img
-          src="https://media-exp1.licdn.com/dms/image/C4D03AQHwMPI5yk32kw/profile-displayphoto-shrink_800_800/0/1615317722916?e=1635984000&v=beta&t=qAk4wQ5TBdIvtNu3uFL_QqIhkqoyJAy0JPfE-J1rfuc"
+          src="/media/profile.jpg"
           alt="Avatar"
           className="profile-picture"
         />

@@ -20,7 +20,7 @@ const FeedPost: React.FC = () => {
     <Panel>
       <Container>
         <Row className="heading">
-          <Avatar src="https://media-exp1.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_200_200/0/1519856215226?e=1639008000&v=beta&t=FTMSjgp0pAaFxjHmiouRemYeqig8-nbjteiZeKCnccw" alt="Google" />
+          <Avatar src="/media/google.jpg" alt="Google" />
           <Column>
             <h3>Google</h3>
             <h4>22.207.562 seguidores</h4>
@@ -29,7 +29,7 @@ const FeedPost: React.FC = () => {
         </Row>
 
         <PostImage
-          src="https://media-exp1.licdn.com/dms/image/C5622AQE6lbZQ6_3bVg/feedshare-shrink_800/0/1628722802264?e=1633564800&v=beta&t=rELRcJ49R5rj1zhITCIwMqsLv7Slwix2lWE766HNOEE"
+          src="/media/post.jpg"
           alt="Google Education"
         />
 
